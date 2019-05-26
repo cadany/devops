@@ -1,0 +1,7 @@
+/bin/
+/feeds/*
+pwd.txt
+result.txt
+.DS_*
+.project
+.settings
